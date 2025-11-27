@@ -1,6 +1,6 @@
 # MasterStudy Custom Layout Plugin
 
-This plugin allows you to override MasterStudy LMS templates with custom layouts.
+This plugin allows you to override MasterStudy LMS templates with custom layouts and overrides only the course player file.
 
 ## File Structure
 
